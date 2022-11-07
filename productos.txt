@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Escuadra",
+    "price": 123.45,
+    "thumbnail": "https://cdn3.iconfinder.com/data/icons/education-209/64/ruler-triangle-stationary-school-256.png",
+    "id": 1
+  },
+  {
+    "title": "Calculadora",
+    "price": 234.56,
+    "thumbnail": "https://cdn3.iconfinder.com/data/icons/education-209/64/calculator-math-tool-school-256.png",
+    "id": 2
+  },
+  {
+    "title": "Globo Terráqueo",
+    "price": 345.67,
+    "thumbnail": "https://cdn3.iconfinder.com/data/icons/education-209/64/globe-earth-geograhy-planet-school-256.png",
+    "id": 3
+  },
+  {
+    "title": "Escuadra 2",
+    "price": 123.45,
+    "thumbnail": "https://cdn3.iconfinder.com/data/icons/education-209/64/ruler-triangle-stationary-school-256.png",
+    "id": 4
+  },
+  {
+    "title": "Calculadora 2",
+    "price": 234.56,
+    "thumbnail": "https://cdn3.iconfinder.com/data/icons/education-209/64/calculator-math-tool-school-256.png",
+    "id": 5
+  },
+  {
+    "title": "Globo Terráqueo 2",
+    "price": 345.67,
+    "thumbnail": "https://cdn3.iconfinder.com/data/icons/education-209/64/globe-earth-geograhy-planet-school-256.png",
+    "id": 6
+  },
+  {
+    "title": "joystick ps3",
+    "price": 237,
+    "thumbnail": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHCBUVFRYUFhUYGRgaHBocGBkaGhgYGhgcHBgZHBgcGhocIS4lHB4rIxoYJjgmKy8xNTU1GiQ7QDszPy40NTEBDAwMDw8QGBERGDEhGSsxMT8/PzQxMTE7MTQ0MTo0PzQ/PzQxNTcxMTE0Nj83PzQxMTQxPzQxNz8xMTExMTc1N//AABEIALIBGwMBIgACEQEDEQH/xAAcAAABBAMBAAAAAAAAAAAAAAAAAQMEBQIGBwj/xABDEAACAQIDBAYHBQYFBAMAAAABAgADEQQSIQUxQVEGImFxgaEHEzJCkbHRUlSSwfAUI2JyorIWM4LS4RUXU8IkQ2P/xAAXAQEBAQEAAAAAAAAAAAAAAAAAAQID/8QAHREBAQEBAAIDAQAAAAAAAAAAAAERAhIhA0FhMf/aAAwDAQACEQMRAD8A7NCEQwFhEhAWESEBYTT+lnTWnhf3dMLVrXsyX6qC17uee7q3vrNJr9OMe50qIg5IgPmwv5wOzQnFafSXGk3/AGp/wgj4ZpaYXphjU3vTqDk65T4WAHxaXB1aEpuju2lxVIPbI40encEobkcN6m1weRlxIFhEhAWESEBYRIQFhEhAWESEBYRIQFhGqlQKCWIAAJJJsABvJPATne2OnlUu64ZUCA2Wo2pfTVlWxsL3tca7+MDpMJxmt0lxranEkfyrl+TCNU+kmNXVcSx7+t82MuDtcJy3ZPT+ujquIVXQkBnUWdR9qwABty3zpGCxiVkWpTcMrbiPPuPYZBKhEhAWESEBYQhAIhixDAIQhAJUdKdonD4TEV19pKblP5yLJ/UVlvOf+mHaATBpTJt62qgP8qdc+ar8YHLaRO8kknUk6kk6kk8STcyTTlZTru3sJYfafQeAGpklKdTjVI/kVR/deaFhhkIAU207+cmKZWIrj/7qnwpEfApJC1ag3Mjjk6FD+NCR/TAudiY9qGMwrq1lZ/VOODLUBCg9z",
+    "id": 7
+  }
+]
